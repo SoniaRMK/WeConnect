@@ -73,4 +73,4 @@ WeConnect provides a platform that brings businesses and individuals together. T
 
 Go to [WeConnect](https://soniarmk.github.io/index.html)
 
-Happy Coding! :smile:
+Happy Coding! :smile: :smile:
